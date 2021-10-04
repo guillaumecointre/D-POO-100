@@ -1,1 +1,2 @@
-document.write("hello word");
+console.log("Hello World!")
+
